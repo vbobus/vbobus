@@ -38,7 +38,9 @@ I'm a :video_game: Game designer & programmer :student: Majoring in Computer Sci
 ### :fire: My Stats :
 <div>
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=vbobus&show_icons=true&locale=en&theme=tokyonight)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbobus&&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=vbobus&show_icons=true&locale=en&theme=tokyonight) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbobus&&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbobus&show_icons=true&locale=en&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
