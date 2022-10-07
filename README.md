@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/vbobus/vbobus/blob/main/my%20banner.png"/>
+  <img src="https://github.com/vbobus/vbobus/blob/main/banner%202.0.gif"/>
 </div>
 
 ---
