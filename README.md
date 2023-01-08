@@ -5,7 +5,7 @@
 ---
 
 ### :man_technologist: About Me :  
-I'm a :video_game: Game designer & programmer :student: Majoring in Computer Science @ Simon Fraser University
+I'm a :video_game: Game/Web designer & programmer :student: Majoring in Computer Science @ Simon Fraser University
 
 ---
 
