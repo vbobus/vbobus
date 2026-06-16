@@ -5,7 +5,7 @@
 ---
 
 ### :man_technologist: About Me :  
-I'm a :video_game: 3D programmer :student: Majoring in Computer Science @ Simon Fraser University
+🤖 Software engineer building AI-enabled systems, agent workflows, automation tools, and interactive experiences. 🎓 CS graduate from Simon Fraser University.
 
 ---
 
