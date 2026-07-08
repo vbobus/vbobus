@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me  
-🤖 Software engineer building AI-enabled systems, agent workflows, automation tools, and interactive experiences. 🎓 CS graduate from Simon Fraser University.
+🤖 Software engineer building AI-enabled systems, agentic workflows, interactive experiences, and simulations.
 
 ---
 
